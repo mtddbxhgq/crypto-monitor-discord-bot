@@ -62,7 +62,7 @@ docker compose version
 1. Clone the repository:
    ```bash
    git clone https://github.com/mtddbxhgq/crypto-monitor-discord-bot.git
-   cd discord-monitor
+   cd crypto-monitor-discord-bot
    ```
 
 2. Copy the environment file:
