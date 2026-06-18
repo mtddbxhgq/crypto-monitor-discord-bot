@@ -85,6 +85,9 @@ docker compose version
    ```bash
    sudo docker-compose up -d
    ```
+    ```Windows, Before doing that, you need to run Docker Desktop.
+    docker-compose up -d
+   ``
 
 ---
 
