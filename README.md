@@ -82,12 +82,14 @@ docker compose version
    - `UPDATE_INTERVAL` — seconds between updates (minimum 15)
 
 4. Start the bot:
+   Linux
    ```bash
    sudo docker-compose up -d
    ```
-    ```Windows, Before doing that, you need to run Docker Desktop.
-    docker-compose up -d
-   ``
+   Windows, Before doing that, you need to run Docker Desktop.
+     ```bash
+   docker-compose up -d
+   ```
 
 ---
 
