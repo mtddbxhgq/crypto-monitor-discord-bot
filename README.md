@@ -61,7 +61,7 @@ docker compose version
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/discord-monitor.git
+   git clone https://github.com/mtddbxhgq/crypto-monitor-discord-bot.git
    cd discord-monitor
    ```
 
@@ -105,13 +105,13 @@ docker compose version
 
 ```bash
 # View logs
-docker-compose logs -f
+sudo docker-compose logs -f
 
 # Stop the bot
-docker-compose down
+sudo docker-compose down
 
 # Restart the bot
-docker-compose restart
+sudo docker-compose restart
 ```
 
 ---
